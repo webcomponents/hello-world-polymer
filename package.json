@@ -1,0 +1,21 @@
+{
+    "name": "hello-world-polymer",
+    "version": "0.0.0",
+    "description": "Web Component example using Polymer",
+    "author": "WebComponents.org",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/webcomponents/hello-world-polymer"
+    },
+    "bugs": {
+        "url": "https://github.com/webcomponents/hello-world-polymer/issues"
+    },
+    "devDependencies": {
+        "grunt": "~0.4.1",
+        "grunt-bump": "~0.0.13",
+        "grunt-cli": "~0.1.9",
+        "grunt-contrib-connect": "~0.7.1",
+        "grunt-text-replace": "~0.3.11"
+    }
+}
