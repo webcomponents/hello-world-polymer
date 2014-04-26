@@ -16,7 +16,7 @@ Install the component using [Bower](http://bower.io/):
 $ bower install hello-world-polymer --save
 ```
 
-Or [download as ZIP](https://github.com/webcomponents/hello-world-polymer/archive/gh-pages.zip).
+Or [download as ZIP](https://github.com/webcomponents/hello-world-polymer/archive/master.zip).
 
 ## Usage
 
@@ -63,17 +63,19 @@ In order to run it locally you'll need to fetch some dependencies and a basic se
 3. To test your project, start the development server and open `http://localhost:8000`.
 
     ```sh
-    $ grunt
+    $ grunt server
     ```
 
-4. To publish a new version, build the distribution files, bump package version, create tag, commit and push.
+4. To build the distribution files before releasing a new version.
 
     ```sh
     $ grunt build
+    ```
 
-    $ grunt bump       # v0.0.1
-    $ grunt bump:minor # v0.1.0
-    $ grunt bump:major # v1.0.0
+5. To provide a live demo, send everything to `gh-pages` branch.
+
+    ```sh
+    $ grunt deploy
     ```
 
 ## Contributing
