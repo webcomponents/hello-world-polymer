@@ -23,7 +23,7 @@ Or [download as ZIP](https://github.com/webcomponents/hello-world-polymer/archiv
 1. Import polyfill:
 
     ```html
-    <script src="bower_components/webcomponentsjs/webcomponents.min.js"></script>
+    <script src="bower_components/webcomponentsjs/webcomponents-lite.min.js"></script>
     ```
 
 2. Import custom element:
