@@ -6,14 +6,13 @@
         "WebComponents.org"
     ],
     "license": "MIT",
-    "main": "dist/hello-world.html",
+    "main": "hello-world.html",
     "keywords": [
         "polymer",
         "web-components"
     ],
     "ignore": [
         "**/.*",
-        "node_modules",
         "bower_components"
     ],
     "dependencies": {
