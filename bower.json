@@ -1,0 +1,7 @@
+{
+    "private": true,
+    "name": "hello-world-polymer",
+    "dependencies": {
+        "hello-world-polymer": "webcomponents/hello-world-polymer#master"
+    }
+}

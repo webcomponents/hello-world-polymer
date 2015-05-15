@@ -1,0 +1,21 @@
+{
+    "name": "hello-world-polymer",
+    "version": "1.0.0",
+    "description": "Web Component example using Polymer",
+    "authors": [
+        "WebComponents.org"
+    ],
+    "license": "MIT",
+    "main": "hello-world.html",
+    "keywords": [
+        "polymer",
+        "web-components"
+    ],
+    "ignore": [
+        "**/.*",
+        "bower_components"
+    ],
+    "dependencies": {
+        "polymer": "Polymer/polymer#^0.9.0"
+    }
+}

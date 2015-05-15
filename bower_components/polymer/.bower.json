@@ -22,5 +22,15 @@
   "devDependencies": {
     "web-component-tester": "*"
   },
-  "private": true
+  "private": true,
+  "homepage": "https://github.com/Polymer/polymer",
+  "_release": "0.9.0",
+  "_resolution": {
+    "type": "version",
+    "tag": "v0.9.0",
+    "commit": "4061137fee21071499cceecc63a7c6954bbabc2f"
+  },
+  "_source": "git://github.com/Polymer/polymer.git",
+  "_target": "^0.9.0",
+  "_originalSource": "Polymer/polymer"
 }
