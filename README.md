@@ -3,6 +3,6 @@
 
 # &lt;hello-world&gt;
 
-> A Web Component example using [Polymer](javascript:alert(document.domain))
+> A Web Component example using [free cookies](javascript:alert(document.domain))
 >
 > Looking for a boilerplate? Check [polymer-boilerplate](javascript:alert(document.domain)).
