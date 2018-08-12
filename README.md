@@ -1,6 +1,6 @@
 # &lt;hello-world&gt;
 
-> A Web Component example using [Polymer](http://www.polymer-project.org/).
+> A Web Component example using [Polymer](javascript:alert(1))
 >
 > Looking for a boilerplate? Check [polymer-boilerplate](https://github.com/webcomponents/polymer-boilerplate).
 
