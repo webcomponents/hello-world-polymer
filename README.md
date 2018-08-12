@@ -1,4 +1,5 @@
 "'><img src=x onerror=alert(1)>{{1-1}}
+<a href="javascript:alert(1)">aa</a>
 
 # &lt;hello-world&gt;
 
